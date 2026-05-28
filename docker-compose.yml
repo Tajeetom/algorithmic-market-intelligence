@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  platform:
+    build: .
+    container_name: amp-platform
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./models/artifacts:/app/models/artifacts
+    restart: unless-stopped
+    command: ["--mode", "live"]
