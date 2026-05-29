@@ -246,4 +246,4 @@ MIT
 
 ## Author
 
-**Tajuddin Mohammed** — [GitHub](https://github.com/mtajuddin) · [LinkedIn](https://linkedin.com/in/mtajuddin01)
+**Tajuddin Mohammed** — [GitHub](https://github.com/mtajuddin) · [LinkedIn](https://linkedin.com/in/mtajudin01)
